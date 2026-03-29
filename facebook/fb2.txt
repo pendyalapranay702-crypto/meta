@@ -1,0 +1,3 @@
+Owned by Meta along with Instagram, WhatsApp, Threads
+Graph API for developers
+React (UI framework) originally developed inside Facebook
